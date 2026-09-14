@@ -14,7 +14,7 @@ Formerly PickLab. Now the main focus of Pickforge Studio.
 
 ### Other work
 
-- [complexity-gate](https://github.com/pickforge/complexity-gate) — Per-function complexity checks that plug into coding agents and catch overly complicated code before the turn ends.
+- [PickCheck](https://github.com/pickforge/complexity-gate) — Per-function complexity checks that plug into coding agents and catch overly complicated code before the turn ends.
 - [dotfiles](https://github.com/ElbertePlinio/dotfiles) — My development environment and agent configuration.
 
 ### Find me
